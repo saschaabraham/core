@@ -165,6 +165,7 @@ homeassistant.components.http.*
 homeassistant.components.huawei_lte.*
 homeassistant.components.hyperion.*
 homeassistant.components.ibeacon.*
+homeassistant.components.image.*
 homeassistant.components.image_processing.*
 homeassistant.components.image_upload.*
 homeassistant.components.input_button.*
